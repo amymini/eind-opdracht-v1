@@ -1,0 +1,115 @@
+.coral-pixels-regular {
+    font-family: "Coral Pixels", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.press-start-2p-regular {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.silkscreen-regular {
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.silkscreen-bold {
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+.enter-btn h1 {
+    font-family: "Coral Pixels", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    border: 5px skyblue outset;
+    background-color: rgb(125, 202, 243);
+    text-align: center;
+    width: 850px;
+}
+
+body {
+    background-image: url(./fruit.png);
+    background-size: cover;
+    overflow-x: hidden;
+    padding: 50px;
+}
+
+.blogbody body {
+    background-image: url(./fruit.png);
+    background-size: cover;
+    overflow-x: hidden;
+    padding: 150px;
+}
+
+.homepage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.enter-btn {
+    text-decoration: none;
+}
+
+ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    border: 5px skyblue outset;
+    background-color: rgb(125, 202, 243);
+    text-align: center;
+    font-family: "Coral Pixels", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    width: 850px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    border: 5px skyblue outset;
+    background-color: rgb(125, 202, 243);
+    padding: 15px;
+}
+
+h2 {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    border: 10px skyblue outset;
+    background-color: rgb(156, 210, 239);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+p {
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 5px skyblue inset;
+    background-color: rgb(156, 210, 239);
+    padding: 5px;
+
+}
